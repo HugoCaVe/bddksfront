@@ -25,7 +25,7 @@ public class CheckoutStep {
     CheckoutPage checkoutPage;
 
     @Step
-    public void enterCustomerInformation() throws IOException {
+    public void enterCustomerInformation() {
         assertThat(ERROR_VALUE_NOT_FOUND.getValue(), checkoutPage.validateName());
         assertThat(ERROR_VALUE_NOT_FOUND.getValue(), checkoutPage.validateEmail());
         assertThat(ERROR_VALUE_NOT_FOUND.getValue(), checkoutPage.validateSocialSecurity());

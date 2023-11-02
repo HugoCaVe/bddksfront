@@ -16,9 +16,6 @@ public class LoginPage extends PageObject {
     @FindBy(xpath = "//button[contains(@form,'login') and contains(text(),'Log in')]")
     private WebElementFacade btnLogin;
 
-    @FindBy(xpath = "//button[contains(text(),'Cancel')]")
-    private WebElementFacade btnCancel;
-
     public boolean validateUser() {
         return txtUser.isDisplayed();
     }

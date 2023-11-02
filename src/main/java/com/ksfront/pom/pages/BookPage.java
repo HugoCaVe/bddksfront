@@ -40,9 +40,6 @@ public class BookPage extends PageObject {
     @FindBy(xpath = "//input[@value = 'Planet color']")
     private WebElementFacade txtPlanetColor;
 
-    @FindBy(xpath = " //*[contains(@class,'theme__day___3cb3g theme__active___2k63V')]")
-    private WebElementFacade txtActiveDay;
-
     public void selectReservation() {
         btnBook.click();
     }
