@@ -1,0 +1,24 @@
+id;idFilter;departingDay;departingMonth;departingAge;returningDay;returningMonth;returningAge;adults;children;launch;planetColor;price
+1;reservation1;12;November;2023;14;November;2023;1;2;Shenji;Red;1600
+2;reservation2;11;December;2023;15;December;2023;2;3;Shaheying;Purple;250
+3;reservation3;20;January;2024;25;January;2023;3;4;Madan;Green;1200
+4;reservation4;10;February;2024;14;February;2023;4;1;Tongli;Blue;193
+5;reservation5;9;March;2024;11;March;2023;2;2;Sant Cugat Del Valles;Red;1244
+6;reservation6;18;April;2024;22;April;2023;1;1;Flagstaff;Brown;400
+7;reservation7;2;November;2023;7;November;2023;1;2;Tongli;Blue;284
+8;reservation8;18;December;2023;21;December;2023;2;3;Shenji;Red;1180
+9;reservation9;17;January;2023;23;January;2023;3;4;Madan;Green;1190
+10;reservation10;10;February;2024;18;February;2024;4;2;Sant Cugat Del Valles;Red;1600
+11;reservation11;8;March;2024;12;March;2024;1;1;Shaheying;Purple;306
+12;reservation12;2;April;2024;4;April;2024;2;1;Madan;Green;1750
+13;reservation13;14;November;2023;16;November;2023;3;2;Shaheying;Purple;600
+14;reservation14;7;December;2023;9;December;2023;1;3;Tongli;Blue;225
+15;reservation15;1;January;2024;4;January;2024;2;4;Madan;Green;1500
+16;reservation16;8;February;2024;17;February;2024;3;2;Flagstaff;Brown;347
+17;reservation17;4;March;2024;7;March;2024;4;4;Shenji;Red;1090
+18;reservation18;8;April;2024;10;April;2024;2;1;Madan;Green;1301
+19;reservation19;23;January;2024;26;January;2024;4;1;Sant Cugat Del Valles;Red;1455
+20;reservation20;5;February;2024;9;February;2024;1;3;Shenji;Red;1300
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
